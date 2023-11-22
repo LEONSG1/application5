@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       home: Scaffold(
-        appBar: AppBar(title: Text("data 1")),
+        appBar: AppBar(title: Text("project kosong")),
         body: Center(
           child: Container(
             color: Colors.green,
